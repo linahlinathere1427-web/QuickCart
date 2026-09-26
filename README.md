@@ -69,6 +69,9 @@ cd QuickCart
 
 That's it — everything runs client-side.
 
+## demo video
+https://drive.google.com/drive/folders/1wgOx0mmdMjHX_POyAdiUgeRu2rbdpuU7?usp=sharing
+
 ## Roadmap / what we'd add with more time
 
 - Real biometric verification via the WebAuthn API on supported devices
