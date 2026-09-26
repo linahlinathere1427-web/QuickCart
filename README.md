@@ -61,7 +61,7 @@ No build tools, no dependencies, no installation needed.
 
 1. Clone the repository:
 ```
-git clone <your-repo-url>
+git clone https://github.com/linahlinathere1427-web/QuickCart
 cd QuickCart
 ```
 2. Open `index.html` directly in a browser (double-click it, or right-click → Open With → your browser).
